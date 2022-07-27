@@ -1,0 +1,6 @@
+﻿  Manager.cpp
+  WorkerManager.cpp
+D:\c++_project\C++Learning\Project0726_通讯录管理系统重写\WorkerManager.cpp(426,25): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  职工管理系统.cpp
+  正在生成代码...
+  Project0726_通讯录管理系统重写.vcxproj -> D:\c++_project\C++Learning\Project0726_通讯录管理系统重写\x64\Debug\Project0726_通讯录管理系统重写.exe
