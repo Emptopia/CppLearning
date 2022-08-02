@@ -1,0 +1,5 @@
+﻿  06 员工分组案例.cpp
+D:\c++_project\C++Learning\Project0802_map\06 员工分组案例.cpp(52,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++_project\C++Learning\Project0802_map\06 员工分组案例.cpp(61,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++_project\C++Learning\Project0802_map\06 员工分组案例.cpp(70,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Project0802_map.vcxproj -> D:\c++_project\C++Learning\Project0802_map\x64\Debug\Project0802_map.exe
